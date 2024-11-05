@@ -53,5 +53,7 @@ EDA involved the exploring of the data to answer some question about the dataset
 
    <img width="491" alt="SALE DATA" src="https://github.com/user-attachments/assets/03cea667-21cf-4e56-8fa4-5207d3e0b128">
 
+<img width="401" alt="Total sale by Product" src="https://github.com/user-attachments/assets/1a99b80d-9c29-4d97-b1e1-7ce37c8e1cc1">
+<img width="297" alt="Total sale by Region" src="https://github.com/user-attachments/assets/4633a3d0-c3bf-44fb-9049-be7b2984be12">
 
 
