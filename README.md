@@ -57,3 +57,29 @@ EDA involved the exploring of the data to answer some question about the dataset
 <img width="297" alt="Total sale by Region" src="https://github.com/user-attachments/assets/4633a3d0-c3bf-44fb-9049-be7b2984be12">
 
 
+<img width="501" alt="CUSTOMER DATA" src="https://github.com/user-attachments/assets/c58648c1-c3e8-495a-a88f-86254168187a">
+
+
+
+
+
+
+<img width="341" alt="Customer Revenue by Region" src="https://github.com/user-attachments/assets/058db384-8f94-42d6-823d-4cf07b229111">
+
+
+
+<img width="388" alt="Customer revenue by subscription type" src="https://github.com/user-attachments/assets/e142c3c0-b342-4794-8e23-bed59a820a97">
+
+
+
+<img width="637" alt="Customer Excel Extract" src="https://github.com/user-attachments/assets/71fc712d-1c01-41a1-b897-d1470bd27cbb">
+
+
+
+
+<img width="678" alt="HR DATA" src="https://github.com/user-attachments/assets/d02033f5-7876-4170-929c-08bffb03f4d7">
+
+
+
+
+
