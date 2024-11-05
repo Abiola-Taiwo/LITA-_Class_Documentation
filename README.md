@@ -45,8 +45,13 @@ EDA involved the exploring of the data to answer some question about the dataset
       find the number of sales transactions in each region.
        SELECT Region, COUNT(OrderID) AS NumOfTransactions
       FROM SalesData
-      GROUP BY Region
+      GROUP BY Region<img width="501" alt="CUSTOMER DATA" src="https://github.com/user-attachments/assets/eb3ab233-7f51-4488-9bc3-3686878741e0">
 
-   
+
+      ###Data Visualisation
+      
+
+   <img width="491" alt="SALE DATA" src="https://github.com/user-attachments/assets/03cea667-21cf-4e56-8fa4-5207d3e0b128">
+
 
 
